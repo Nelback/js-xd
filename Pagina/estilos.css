@@ -1,0 +1,86 @@
+html {
+
+    background-color: #F2F2F2;
+
+}
+
+img {
+
+height:67px ;
+width: 67px ;
+}
+
+.Logole {
+
+position:absolute;
+left: 80px;
+top: 10px;
+}
+
+.pi {
+
+background-color:#CE866E;
+width: 480px;
+padding: 30px;
+border: 8px solid black;
+ 
+}
+
+.qesmc {
+position: absolute;
+left: 180px;
+top: 10px;
+
+}
+
+.Caja1 {
+position: absolute;
+left: 100px;
+top: 130px;
+
+}
+
+.poster {
+
+position: absolute;
+top: 100px;
+left: 990px;
+height: 560px;
+width: 290px;
+}
+
+.pii {
+
+    background-color:#CE866E;
+width: 480px;
+padding: 30px;
+border: 8px solid black;
+}
+
+.curiosi {
+
+    position: absolute;
+left: 180px;
+top: 10px;
+
+}
+
+.caja2 {
+position: absolute;
+top: 380px;
+left: 300px;
+}
+
+.descarga {
+position: absolute;
+
+top: 600px;
+
+}
+
+.compra {
+    position: absolute;
+    
+    top: 630px;
+    
+    }
